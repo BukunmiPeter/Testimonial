@@ -4,4 +4,4 @@ __Tech Used__
 
 1. Html
 
-![html](Soyinka.jpg)
+![html](Wole Soyinka.png)
